@@ -1,0 +1,62 @@
+[
+  {
+    "model": "pos.Bill",
+    "pk": 100,
+    "fields": {
+      "table": 1,
+      "customer_name": "armando",
+      "product": 100,
+      "quantity": 6
+    }
+  },
+  {
+    "model": "pos.Bill",
+    "pk": 101,
+    "fields": {
+      "table": 1,
+      "customer_name": "nestor",
+      "product": 100,
+      "quantity": 3
+    }
+  },
+  {
+    "model": "pos.Bill",
+    "pk": 102,
+    "fields": {
+      "table": 1,
+      "customer_name": "ady",
+      "product": 101,
+      "quantity": 5
+    }
+  },
+  {
+    "model": "pos.Bill",
+    "pk": 121,
+    "fields": {
+      "table": 2,
+      "customer_name": "adrian",
+      "product": 100,
+      "quantity": 3
+    }
+  },
+  {
+    "model": "pos.Bill",
+    "pk": 122,
+    "fields": {
+      "table": 2,
+      "customer_name": "richard",
+      "product": 101,
+      "quantity": 5
+    }
+  },
+  {
+    "model": "pos.Bill",
+    "pk": 133,
+    "fields": {
+      "table": 3,
+      "customer_name": "juan",
+      "product": 101,
+      "quantity": 5
+    }
+  }
+]
