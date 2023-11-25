@@ -1,0 +1,29 @@
+[
+  {
+    "model": "pos.product",
+    "pk": 100,
+    "fields": {
+      "name": "Heineken",
+      "price": 20,
+      "available": true
+    }
+  },
+  {
+    "model": "pos.product",
+    "pk": 101,
+    "fields": {
+      "name": "Corona",
+      "price": "18",
+      "available": true
+    }
+  },
+  {
+    "model": "pos.product",
+    "pk": 102,
+    "fields": {
+      "name": "Ultra",
+      "price": "17",
+      "available": true
+    }
+  }
+]
